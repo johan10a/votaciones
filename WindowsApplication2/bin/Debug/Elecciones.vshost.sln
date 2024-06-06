@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Elecciones.vshost", "Elecciones.vshost.exe", "{FEC3C3D6-922C-4930-9792-D2458D9D923C}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug\Elecciones.vshost.exe
+		RemoteMachine = LAPTOP-CU9J3NO3
+		StartingDirectory = C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug
+		Environment = Predeterminado
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC3C3D6-922C-4930-9792-D2458D9D923C}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

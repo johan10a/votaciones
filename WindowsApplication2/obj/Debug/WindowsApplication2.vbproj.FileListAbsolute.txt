@@ -1,0 +1,10 @@
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug\Elecciones.exe.config
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug\Elecciones.exe
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug\Elecciones.pdb
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\bin\Debug\Elecciones.xml
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\Votaciones.Form1.resources
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\Votaciones.Resources.resources
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\Elecciones.exe
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\Elecciones.xml
+C:\Users\Johan\OneDrive\Documentos\Visual Studio 2012\WindowsApplication2\WindowsApplication2\obj\Debug\Elecciones.pdb
